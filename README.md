@@ -2,7 +2,7 @@
 
 ## 👋 Hi, I’m [Ruben Erhardt](https://github.com/RubenErhardt)
 
-Welcome to my GitHub profile! I'm Ruben, a passionate coder with a focus on HTML, CSS, and JavaScript. I'm excited about exploring the world of web development and am constantly learning and improving my skills. I am just learning and this is my second year so don't be to harsh. 
+Welcome to my GitHub profile! I'm Ruben, a passionate coder with a focus on HTML, CSS, and JavaScript. I'm excited about exploring the world of web development and am constantly learning and improving my skills. I just started learning and this is my second year so don't be to harsh. 
 
 ### 👀 About Me
 

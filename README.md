@@ -1,8 +1,8 @@
-# Welcome to My GitHub Profile!
+# Welcome to My GitHub Profile! ![](https://komarev.com/ghpvc/?username=RubenErhardt&color=red)
 
 ## 👋 Hi, I’m [Ruben Erhardt](https://github.com/RubenErhardt)
 
-Welcome to my GitHub profile! I'm Ruben 23, a passionate coder with a focus on HTML, CSS, and JavaScript and I love to play videogames. I'm excited about exploring the world of web development and am constantly learning and improving my skills. I just started learning and this is my second year so don't be to harsh. I am a fast learner tho. 
+Welcome to my GitHub profile! I'm Ruben 23, a passionate coder with a focus on HTML, CSS, and JavaScript and I love to play videogames. I'm excited about exploring the world of web development and am constantly learning and improving my skills. I just started learning and this is my second year so don't be to harsh. I am a fast learner tho.
 
 ### 👀 About Me
 

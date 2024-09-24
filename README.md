@@ -19,7 +19,7 @@ Feel free to connect with me through the following platforms:
 
 - **Email:** 
 - **LinkedIn:** 
-- **Twitter:** 
+- **Twitter:** [AllesFrontend](https://x.com/AllesFrontend)
 - **GitHub:** [github.com/RubenErhardt](https://github.com/RubenErhardt)
 
 ### 🛠️ Technologies & Tools

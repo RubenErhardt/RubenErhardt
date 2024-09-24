@@ -10,9 +10,8 @@ I'm currently learing how to be a front-end developer. My journey began with not
 
 - **Learning:** HTML, CSS, and JavaScript
 - **Current projects:**
-1. https://github.com/RubenErhardt/your-tribe-for-life-profile-card
-2. https://github.com/Khdulkadir/your-tribe-for-life-squad-page
-3. https://github.com/RubenErhardt/i-love-web
+1. https://github.com/annelinderaadsheer/lose-your-head-the-client-case
+2. https://github.com/RubenErhardt/i-love-web
 
 ### 📫 How to Reach Me
 

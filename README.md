@@ -8,7 +8,7 @@ Welcome to my GitHub profile! I'm Ruben 23, a student at HVA FDND with a focus o
 
 I'm currently learing how to be a front-end developer. My journey began with not knowing what to do, and stumbeling across this study 'FDND' not knowing I was going to love it. Also if I am not coding or studying I am probably gaming or playing with my dog. Currently playing Black Myth: Wukong. What a game!
 
-- **Learning:** HTML, CSS, and JavaScript
+- **Learning:** HTML, CSS, JavaScript and Sveltekit
 - **Current projects:**
 1. https://github.com/annelinderaadsheer/lose-your-head-the-client-case
 2. https://github.com/RubenErhardt/i-love-web

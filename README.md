@@ -12,6 +12,7 @@ I'm currently learing how to be a front-end developer. My journey began with not
 - **Current projects:**
 1. https://github.com/annelinderaadsheer/lose-your-head-the-client-case
 2. https://github.com/RubenErhardt/i-love-web
+3. Being a mentor for FDND students year 1
 
 ### 📫 How to Reach Me
 

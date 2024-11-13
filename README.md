@@ -6,7 +6,7 @@ Welcome to my GitHub profile! I'm Ruben 23, a student at HVA FDND and I love to 
 
 ### 👀 About Me
 
-I'm currently learing how to be a front-end developer. My journey began with not knowing what to do, and stumbeling across this study 'FDND' not knowing I was going to love it. Also if I am not coding or studying I am probably gaming or playing with my dog. Currently playing Black Myth: Wukong. What a game!
+I'm currently learing how to be a front-end developer. My journey began with not knowing what to do, and stumbeling across this study 'FDND' not knowing I was going to love it. Also if I am not coding or studying I am probably gaming or playing with my dog. Currently playing Black Ops 6
 
 - **Learning:** HTML, CSS, JavaScript and Sveltekit
 - **Current projects:**

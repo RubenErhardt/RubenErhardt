@@ -10,7 +10,7 @@ I'm currently learing how to be a front-end developer. My journey began with not
 
 - **Learning:** HTML, CSS, JavaScript and Sveltekit
 - **Current projects:**
-1. https://github.com/annelinderaadsheer/lose-your-head-the-client-case
+1. https://github.com/fdnd-agency/red-pers
 2. https://github.com/RubenErhardt/i-love-web
 3. Being a mentor for FDND students year 1
 

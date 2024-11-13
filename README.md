@@ -18,8 +18,7 @@ I'm currently learing how to be a front-end developer. My journey began with not
 
 Feel free to connect with me through the following platforms:
 
-- **Email:** 
-- **LinkedIn:** 
+- **Email:** [Email](rubenerhardt1@hotmail.com)
 - **Twitter:** [AllesFrontend](https://x.com/AllesFrontend)
 - **GitHub:** [github.com/RubenErhardt](https://github.com/RubenErhardt)
 

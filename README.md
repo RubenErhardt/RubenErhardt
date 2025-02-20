@@ -6,13 +6,12 @@ Welcome to my GitHub profile! I'm Ruben 23, a student at HVA FDND and I love to 
 
 ### 👀 About Me
 
-I'm currently learing how to be a front-end developer. My journey began with not knowing what to do, and stumbeling across this study 'FDND' not knowing I was going to love it. Also if I am not coding or studying I am probably gaming or playing with my dog. Currently playing Black Ops 6
+I'm currently learing how to be a front-end developer. My journey began with not knowing what to do, and stumbeling across this study 'FDND' not knowing I was going to love it. Also if I am not coding or studying I am probably gaming or playing with my dog. 
 
 - **Learning:** HTML, CSS, JavaScript and Sveltekit
 - **Current projects:**
-1. https://github.com/fdnd-agency/red-pers
+1. Stage @https://www.cosmetique-totale.com/
 2. https://github.com/RubenErhardt/i-love-web
-3. Being a mentor for FDND students year 1
 
 ### 📫 How to Reach Me
 
